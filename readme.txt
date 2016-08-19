@@ -1,2 +1,2 @@
-git is good.
-git is wonderful.
+svn is good.
+svn is wonderful.
