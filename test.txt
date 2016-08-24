@@ -7,7 +7,7 @@ public functionaaa1111(){
 ia
 
 
-public function user2bbb(){
+public function user2bbb222222(){
 	echo 222;
 }
 
