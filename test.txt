@@ -1,6 +1,6 @@
 test
 test222
-public function(){
+public functionaaa(){
 	echo 111;
 }
 
@@ -9,4 +9,8 @@ ia
 
 public function user2bbb(){
 	echo 222;
+}
+
+public function user1(){
+	echo 333;
 }
