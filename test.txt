@@ -5,3 +5,15 @@ public function(){
 }
 
 a
+
+
+
+
+
+
+
+
+
+public function user1(){
+	echo 333;
+}
