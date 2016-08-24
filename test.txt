@@ -7,6 +7,6 @@ public function(){
 ia
 
 
-public function user2(){
+public function user2bbb(){
 	echo 222;
 }
