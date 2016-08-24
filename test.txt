@@ -4,4 +4,9 @@ public function(){
 	echo 111;
 }
 
-a
+ia
+
+
+public function user2(){
+	echo 222;
+}
