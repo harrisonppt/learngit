@@ -1,6 +1,6 @@
 test
 test222
-public function(){
+public functionaaa(){
 	echo 111;
 }
 
