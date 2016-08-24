@@ -1,2 +1,7 @@
 test
 test222
+public function(){
+	echo 111;
+}
+
+a
